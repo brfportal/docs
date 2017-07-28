@@ -11,4 +11,4 @@ markdown_extensions:
 pages:
   - Getting Started: 'index.md'
   - Startsida:
-    - 'Översikt': 'dash.md'
+    - 'Översikt': 'dash/main.md'
