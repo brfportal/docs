@@ -1,6 +1,6 @@
 site_name: BRF Portal
 
-repo_url: https://github.com/brfportal/docs.git
+# repo_url: https://github.com/brfportal/docs.git
 site_description: 'BRF Portal – Administrera din förening'
 theme: readthedocs
 
