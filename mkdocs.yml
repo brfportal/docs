@@ -9,6 +9,5 @@ markdown_extensions:
       permalink: True
 
 pages:
-  - Getting Started: 'index.md'
-  - Startsida:
-    - 'Översikt': 'dash/main.md'
+  - Välkommen: 'index.md'
+  - Startsida: 'dash.md'

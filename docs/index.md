@@ -1,3 +1,5 @@
 
-Välkommen till dokumentationen för BRF Portal!
+Välkommen
 ==
+
+Detta är dokumentationen för BRF Portal!
