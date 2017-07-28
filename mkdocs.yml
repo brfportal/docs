@@ -1,0 +1,14 @@
+site_name: BRF Portal
+
+repo_url: https://github.com/wodby/docker4wordpress
+site_description: 'Docker4WordPress – Docker-based WordPress environment for local development'
+theme: readthedocs
+
+markdown_extensions:
+  - toc:
+      permalink: True
+
+pages:
+  - Getting Started: 'index.md'
+  - Startsida:
+    - 'Översikt': 'dash.md'
