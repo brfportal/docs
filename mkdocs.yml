@@ -11,3 +11,5 @@ markdown_extensions:
 pages:
   - Välkommen: 'index.md'
   - Startsida: 'dash.md'
+  - Undersidor: 'menu.md'
+  - Konto: 'account.md'
