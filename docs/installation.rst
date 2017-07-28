@@ -1,7 +1,7 @@
 ============
-Installation
+Startsida
 ============
 
-Install the package with pip::
+Detta är första vyn när man loggar in på BRF Portal::
 
-    $ pip install read-the-docs-template
+.. image:: img/dash.png
