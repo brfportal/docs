@@ -12,4 +12,6 @@ pages:
   - Välkommen: 'index.md'
   - Startsida: 'dash.md'
   - Undersidor: 'menu.md'
-  - Konto: 'account.md'
+  - Förfrågningar: 'requests.md'
+  - Överlåtelse: 'sale.md'
+  - Användare: 'user.md'
