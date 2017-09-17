@@ -1,5 +1,3 @@
-# Överlåtelser
-
 En lägenhet måste vara laddad på översikten för att du ska kunna registrera en överlåtelse. Den lägenhet som är laddad kommer användas för registreringen.
 
 När du laddat en lägenhet på översikten kommer du se informationsrutan nedan.
@@ -8,7 +6,7 @@ När du laddat en lägenhet på översikten kommer du se informationsrutan nedan
 
 Genom att klicka på de korsade pilarna kommer du till dialogen för att registrera en överlåtelse.
 
-## Registrera ny överlåtelse
+# Registrera ny överlåtelse
 
 När du väljer att registrera en ny överlåtelse på en lägenhet visas en dialog med följande innehåll.
 
@@ -50,7 +48,7 @@ När alla punkterna i sammanfattningen är markerade med en grön bock, kan du r
 
 ![sale-reg-submit](_img/sale/register-submit.png)
 
-## Gamla överlåtelser
+# Gamla överlåtelser
 
 När en lägenhet har fått flera överlåtelser registrerade på sig kommer en ny knapp dyka upp på översikten, formad som en klocka med en pil bakåt i tiden.
 

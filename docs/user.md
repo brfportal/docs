@@ -1,6 +1,4 @@
 
-# Användare
-
 ![user-details](_img/user/user-details.png)
 
 ## Detaljer

@@ -1,6 +1,4 @@
 
-# Dokumentation
-
 Välkommen till dokumentationen för BRF Portal!
 
 # Testförening

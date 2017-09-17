@@ -1,5 +1,3 @@
-# Översikt
-
 Detta är första vyn när man loggar in på BRF Portal:
 
 ![full](_img/dash/full.png)

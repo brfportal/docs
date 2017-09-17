@@ -1,6 +1,4 @@
 
-# Förfrågningar
-
 ## Startsida
 
 ![dash](_img/requests/dash.png)
