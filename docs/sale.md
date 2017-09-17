@@ -26,13 +26,27 @@ Ska innehålla köpdatum och tillträdesdatum, och alternativt ett belopp och ko
 
 Ska innehålla minst en köpare, som antingen kan hämtas från föreningens register eller skapas som ny medlem.
 
+**Andelar anges av del av total andel. Detta för att det ska bli rätt även om tex. tre ägare delar lika**
+
+**Exempel: Om tre personer ska ha fördelningen 45% / 45% / 10% kan skriva 45/45/10 eller 9/9/2 på respektive ägare, resultatet blir detsamma.**
+
 ![sale-reg-owner](_img/sale/register-owner.png)
 
-### Förfrågningar
+Om medlemmen som ska läggas in redan är medlem i förening kan du söka på dess e-post eller personnummer. Om du får en träff väljer du medlemmen i listan och får då ett förifyllt formulär.
+
+![sale-reg-owner-existing](_img/sale/register-owner-existing.png)
+
+Om du väljer att lägga in en helt ny ägare så kommer istället formulär där du får fylla i dess information.
+
+**För att medlemmen ska kunna använda BRF Portal behöver giltig e-postadress registreras**
+
+![sale-reg-owner-new](_img/sale/register-owner-new.png)
+
+### Avsluta förfrågningar
 
 När en överlåtelse skapas har du möjlighet att välja om de förfrågningar som finns registrerade på lägenhet ska avslutas eller behållas.
 
-Vi nya köpare bör förfrågningar avslutas, för att sedan läggas in för de nya ägarna.
+Vid nya köpare bör förfrågningar avslutas, för att sedan läggas in för de nya ägarna. Detta för att få bättre uppföljning på användandet och för att hindra de nya ägarna att se den förra medlemmens användande.
 
 ![sale-reg-request](_img/sale/register-request.png)
 
