@@ -18,7 +18,7 @@ Klicka på gubben för att visa ägare till en lägenhet (om registrerat).
 
 Klicka på en rad för att se och ändra information för den ägaren.
 
-Klicka på brevet för att skicka e-post till medlemmen (om adress finns registrerat).
+Klicka på brevet för att skicka e-post till medlemmen (om adress finns registrerad).
 
 Klicka på huset för att se medlemmens ägandeskap i föreningen.
 
