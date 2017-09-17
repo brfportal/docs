@@ -40,11 +40,13 @@ När du har valt en lägenhet att ladda visas informationen om denna nedanför.
 
 # Informationsrutor
 
-Om du är inloggad som styrelse kan du ändra informationen för din förening eller laddad lägenhet genom att klicka på pekikonen vid respektive ruta.
+Om du är inloggad som styrelse kan du ändra informationen för din förening eller laddad lägenhet genom att klicka på penikonen vid respektive ruta.
 
 ## Förening
 
 ![brf](_img/dash/brf.png)
+
+Här visas den information som angavs när föreningen registrerades på BRF Portal. För att ändra denna information kontaktar ni [BRF Portal](mailto:kontakt@brfportal.se)
 
 Genom att klicka på globen kommer du till föreningens egna hemsida (om tillgänglig)
 
@@ -52,9 +54,25 @@ Genom att klicka på globen kommer du till föreningens egna hemsida (om tillgä
 
 ![apt](_img/dash/apt.png)
 
+Denna ruta visar information om den laddade lägenheten.
+
+**Nummer** - Föreningen unika lägenhetsbeteckning, och skatteverkets beteckning.
+
+**Läge** - Trappuppgång eller hus, och våning
+
+**Storlek** - Antal rum och antal kvadratmeter
+
 ## Överlåtelse
 
 ![sale](_img/dash/sale.png)
+
+Denna ruta visar information om den senaste överlåtelsen.
+
+**Överlåtelse** - Datum då följningen blev registrerad.
+
+**Tillträde** - Datum då medlemmarna fick tillräde till lägenheten.
+
+**Köpbelopp** - Belopp som blev registrerad på följningen.
 
 Genom att klicka på de korsade pilarna kommer du till dialogen för att registrera en överlåtelse.
 
@@ -63,3 +81,15 @@ Genom att klicka på de korsade pilarna kommer du till dialogen för att registr
 ## Ägare
 
 ![owner](_img/dash/owner.png)
+
+Denna ruta visar information om lägenhetens registrerade medlemmar. (De som bor i lägneheten men inte står som ägare är inte inkluderade)
+
+**Andel** - Medlemmens andel av lägenheten
+
+**Personnr.** - Personnummer (om tillgängligt)
+
+**Namn** - Namnet som registrerades på överlåtelsen
+
+**E-post** - E-postadressen som registrerades på överlåtelsen. Denna används av medlemmen för att logga in på BRF Portal. (om tillgängligt)
+
+**Telefon/Mobil/Arbete** - Telefonnummer till medlemmen (om tillgängligt)
