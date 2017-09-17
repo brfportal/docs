@@ -49,3 +49,13 @@ För att förhindra att överlåtelsen registreras på fel lägenhet så måste 
 När alla punkterna i sammanfattningen är markerade med en grön bock, kan du registrera överlåtelsen med knappen.
 
 ![sale-reg-submit](_img/sale/register-submit.png)
+
+## Gamla överlåtelser
+
+När en lägenhet har fått flera överlåtelser registrerade på sig kommer en ny knapp dyka upp på översikten, formad som en klocka med en pil bakåt i tiden.
+
+![sale-multi](_img/dash/sale-multi.png)
+
+Genom att klicka på denna knappen kommer du till en dialog där den laddade lägenhetens tidgare överlåtelser visas.
+
+![sale-old](_img/dash/sale-old.png)
